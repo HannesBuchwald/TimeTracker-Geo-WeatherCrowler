@@ -23,7 +23,7 @@ It is recommended to host this script on a own webserver.
 
 ## Demonstration
 Under the following link a demo dashboard is initiated.
-https://weather.timetracker.cc
+http://weather.timetracker.cc
 
 
 ## Team
